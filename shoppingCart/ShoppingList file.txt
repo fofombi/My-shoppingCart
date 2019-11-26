@@ -1,0 +1,13 @@
+Your Name is Kevin
+Your bankAccount balance before shopping is 750.00
+What is purchased:
+apple	25.00	5
+orange	15.00	7
+banana	30.00	5
+bread	35.00	10
+lemon	18.50	1
+What is NOT purchased:
+grappe	25.46	15
+mangoes	28.75	15
+lemon	18.50	7
+Your bankAccount balance after shopping is 1.50
